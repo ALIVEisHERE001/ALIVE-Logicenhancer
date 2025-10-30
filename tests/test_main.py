@@ -6,7 +6,7 @@ Tests for ALIVE-Logicenhancer
 import unittest
 from main import *
 
-class TestLogicenhancer(unittest.TestCase):
+class TestAiconsciousness(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         pass
