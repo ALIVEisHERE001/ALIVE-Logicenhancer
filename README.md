@@ -23,7 +23,7 @@
 
     ## 🧠 Design Notes
 
-    This project was conceived with clean architecture patterns in mind and tailored specifically for "ALIVE-Logicenhancer" in the "logic_enhancer" domain, implemented in Python.
+    This project was conceived with biologically-inspired cognition in mind and tailored specifically for "ALIVE-Logicenhancer" in the "ai_consciousness" domain, implemented in Python.
 
     ## 📐 Architecture Sketch
 
@@ -40,36 +40,36 @@
 
     ## 🔎 Fingerprint
 
-    Project Fingerprint: `4e315c66de5c` • Generated: 2025-10-30T05:22:43.072717
+    Project Fingerprint: `6aa57b08b862` • Generated: 2025-10-30T05:26:30.643837
     
 
 ## Insights from Research
 
-- Video: Top 7 Ways to 10x Your API Performance
-- Video: Intro
-- Video: Optimization
-- Video: Caching
-- Repo idea: An opinionated list of awesome Python frameworks, libraries, software and resources.
-- Repo idea: A list of Free Software network services and web applications which can be hosted on your own server
-- Repo idea: A curated list of awesome Go frameworks, libraries and software
-- Repo idea: JavaScript Style Guide
+- Video: Is AI🤖 Truly Conscious? - Elon Musk
+- Video: Architecture Site Analysis Diagrams in SECONDS with AI 😱 | Aino World #architecture
+- Video: Manuel Blum - Towards a Conscious AI: A Computer Architecture inspired by Neuroscience
+- Video: Bernard Baars' Model of Consciousness
 - Repo idea: This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- Repo idea: :books: List of awesome university courses for learning Computer Science!
+- Repo idea:  :books: Find your next book to read!
+- Repo idea: ChatGPT DAN, Jailbreaks prompt
+- Repo idea: SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 
 
 ## Inspiration Sources
 
-- https://www.youtube.com/watch?v=zvWKqUiovAM
-- https://www.youtube.com/watch?v=zvWKqUiovAM
-- https://www.youtube.com/watch?v=zvWKqUiovAM
-- https://www.youtube.com/watch?v=zvWKqUiovAM
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
 
 
 ## Related Repositories
 
-- vinta/awesome-python ⭐ 266968 — https://github.com/vinta/awesome-python
-- awesome-selfhosted/awesome-selfhosted ⭐ 255467 — https://github.com/awesome-selfhosted/awesome-selfhosted
-- avelino/awesome-go ⭐ 156098 — https://github.com/avelino/awesome-go
-- airbnb/javascript ⭐ 147714 — https://github.com/airbnb/javascript
 - f/awesome-chatgpt-prompts ⭐ 135920 — https://github.com/f/awesome-chatgpt-prompts
+- prakhar1989/awesome-courses ⭐ 64046 — https://github.com/prakhar1989/awesome-courses
+- hackerkid/Mind-Expanding-Books ⭐ 12934 — https://github.com/hackerkid/Mind-Expanding-Books
+- 0xk1h0/ChatGPT_DAN ⭐ 10103 — https://github.com/0xk1h0/ChatGPT_DAN
+- NeoVertex1/SuperPrompt ⭐ 6283 — https://github.com/NeoVertex1/SuperPrompt
 
     
